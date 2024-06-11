@@ -1,0 +1,31 @@
+#instagram{
+    width: 24px;
+}
+
+#facebook{
+    width: 24px;
+}#whatsapp{
+    width: 24px;
+}
+
+.info{
+    font-size: 12px;
+}
+
+.sec{
+    color: black;
+}
+
+.sec:hover{
+    background-color: rgb(35, 158, 129);
+    color: white;
+    
+}
+
+#logo{
+    width: 50%;
+}
+
+#iso{
+    width: 40%;
+}

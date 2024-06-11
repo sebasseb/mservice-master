@@ -1,0 +1,23 @@
+.navbar{
+    background-color: rgb(219, 219, 219);
+}
+
+#sec{
+  color: rgb(24, 24, 24);
+}
+
+#sec:hover{
+    background-color: rgb(35, 158, 129);
+    color: white;
+    
+}
+
+
+
+#navbar{
+  position: fixed; /* Make it stick/fixed */
+  top: 0; /* Stay on top */
+  width: 100%; /* Full width */
+  transition: top 0.3s; /* Transition effect when sliding down (and up) */
+  z-index: 998;
+}

@@ -1,0 +1,15 @@
+
+
+.seccion{
+    font-size: 15px;
+}
+#caption{
+    opacity: 0.85;
+}
+
+
+@media (max-width: 600px) {
+    .personal {
+      margin-left: 1rem;
+    }
+  }

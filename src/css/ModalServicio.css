@@ -1,0 +1,25 @@
+.overlay{
+background-color: rgba(0,0,0,0.85);
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+min-height: 100vh;
+display: none;
+z-index: 999;
+   
+}
+
+.overlay.is-open{
+    display: flex;
+}
+
+.modal-body{
+    
+    position: relative;
+    min-width: 320px;
+    max-width: 480px;
+    min-height: 200px;
+    max-height: 85vh;
+    overflow-y: auto;
+}

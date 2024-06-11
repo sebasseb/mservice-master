@@ -1,0 +1,15 @@
+.d-block{
+    height: 550px;
+}
+
+#caption{
+    opacity: 0.85;
+}
+
+
+@media (max-width: 600px) {
+    .d-block {
+      height: 300px;
+    }
+
+}

@@ -1,0 +1,19 @@
+.sec{
+    color: black;
+}
+
+.sec:hover{
+    background-color: rgb(35, 158, 129);
+    color: white;
+    
+}
+
+.card-header{
+    background-color: rgb(35, 158, 129);
+    color: white;
+    
+}
+
+#caption{
+    opacity: 0.85;
+}
